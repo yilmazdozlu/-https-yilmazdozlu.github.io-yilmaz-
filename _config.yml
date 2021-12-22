@@ -20,9 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "resume.pdf", title: "cv" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "https://yilmazdozlu.github.io/yilmaz/"}
-  - {title: Github, icon: github, url: "https://yilmazdozlu.github.io/yilmaz/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "yilmazdozlu@email.arizona.edu"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
