@@ -9,9 +9,13 @@ title: "Through"
 9:37 p.m., 12/21/2021
 Writing is well-earned freedom. No one should be able to own your words.
 
-Imagine a rainbow. Now imagine the rainbow over a water puddle. Now imagine, it is night, and the rainbow is over a water puddle. Now, the image of the rainbow moves
+<table>
+  <tr>
+    <td> Imagine a rainbow. Now imagine the rainbow over a water puddle. Now imagine, it is night, and the rainbow is over a water puddle. Now, the image of the rainbow moves
 over the water puddle. Now, you are small and light, and you are standing over the water puddle, and the rainbow is slowly going below your feet. You have to step on the rainbow.
 (rainbow is the youth.)
+      </td>
+            </table>
 
 A turtle is a stone.
 
