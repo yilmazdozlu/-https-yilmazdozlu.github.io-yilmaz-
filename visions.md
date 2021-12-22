@@ -5,10 +5,9 @@ title: "Through"
 ---
 
 ## Church
-
 <table>
   <tr>
-9:37 p.m., 12/21/2021
+9:37 p.m., 12/21/2021 <del>
   </tr>
   </table>
   
