@@ -9,6 +9,6 @@ Recent literature indicates that congurent iconic hand gestures aid memory in me
 # Philosophy
 ## Parmenides
 no supervision. I was fascinated in September 2020 when I read Plato's Parmenides. I studied Zeno's paradoxes in January 2021 and believed that Platonic answers to four of them are in Parmenides. My manuscript was rejected by Apeiron. In the summer, I prepared a preliminary work, "Parmenides: on the relationship between the One and Being." I surveyed the literature, sent my manuscripts to graduate students, professors, and journals for comments and objections, and I studied English writing to succeed. I sent my manuscript to Ancient Philosophy. It is under review.
-# Reality
+## Reality
 under the supervision of Jason Turner. I studied tense logic and the philosophy of time. I prepared drafts of my sample work "On the Incompleteness of Reality" every week since October, 2021.
 
