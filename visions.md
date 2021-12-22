@@ -3,8 +3,10 @@ layout: page
 title: "Through"
 
 ---
-##Church
-                                                                                                                                                             ##9:37 p.m., 12/21/2021
+
+## Church
+
+9:37 p.m., 12/21/2021
 Writing is well-earned freedom. No one should be able to own your words.
 
 Imagine a rainbow. Now imagine the rainbow over a water puddle. Now imagine, it is night, and the rainbow is over a water puddle. Now, the image of the rainbow moves
