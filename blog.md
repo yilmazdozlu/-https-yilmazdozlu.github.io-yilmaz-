@@ -3,12 +3,6 @@ layout: default
 title: "Blog"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="About Me" %}
-{% endif %}
-
 ## About Me
 
 ![](https://github.com/yilmazdozlu/yilmazdozlu.github.io/blob/master/images/IMG_9725.JPG)
