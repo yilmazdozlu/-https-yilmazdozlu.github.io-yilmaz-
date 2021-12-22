@@ -6,7 +6,9 @@ title: "Through"
 
 ## Church
 <table>
+  <tr>
 9:37 p.m., 12/21/2021
+  </tr>
   </table>
 Writing is well-earned freedom. No one should be able to own your words.
 
