@@ -15,7 +15,7 @@ over the water puddle. Now, you are small and light, and you are standing over t
 
 A turtle is a stone.
 
-My professor once asked me "... if you puts some words together, ""Blue elephant in the kitchen," will you be surprised to find yourself thinking about it?" I rolled my eyes over 
+My professor once asked me "... if you puts some words together, ""Blue elephant in the kitchen,"" will you be surprised to find yourself thinking about it?" I rolled my eyes over 
 and I nodded. 
 
 Accepting defeat is an honor. Enjoying defeat is dishonor. A writer should. 
