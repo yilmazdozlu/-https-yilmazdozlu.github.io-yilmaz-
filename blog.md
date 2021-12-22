@@ -5,7 +5,7 @@ title: "Blog"
 
 ## About Me
 
-![](https://github.com/yilmazdozlu/yilmazdozlu.github.io/blob/master/images/IMG_9725.JPG)
+![](https://github.com/yilmazdozlu/yilmaz/blob/main/images/IMG_9725.JPG)
 
 
 
